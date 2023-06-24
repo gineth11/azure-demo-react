@@ -9,6 +9,10 @@ function App() {
         <p>
           Demo for Azure Dev
         </p>
+        <ol>
+          <li>Gineth</li>
+          <li>Govv</li>
+        </ol>
         <a
           className="App-link"
           href="https://reactjs.org"
